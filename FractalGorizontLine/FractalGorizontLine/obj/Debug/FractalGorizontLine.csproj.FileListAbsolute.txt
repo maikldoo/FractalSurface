@@ -1,0 +1,9 @@
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\bin\Debug\FractalGorizontLine.exe.config
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\bin\Debug\FractalGorizontLine.exe
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\bin\Debug\FractalGorizontLine.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.csproj.GenerateResource.Cache
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.exe
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\FractalGorizontLine\FractalGorizontLine\obj\Debug\FractalGorizontLine.Landscape.resources

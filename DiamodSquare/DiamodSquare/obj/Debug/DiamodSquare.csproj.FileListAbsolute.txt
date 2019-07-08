@@ -1,0 +1,9 @@
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\bin\Debug\DiamodSquare.exe.config
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\bin\Debug\DiamodSquare.exe
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\bin\Debug\DiamodSquare.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.csproj.GenerateResource.Cache
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.exe
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.pdb
+C:\Users\Mikhail\Documents\Visual Studio 2013\Projects\DiamodSquare\DiamodSquare\obj\Debug\DiamodSquare.Landscape.resources
